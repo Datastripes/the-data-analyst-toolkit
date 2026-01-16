@@ -101,6 +101,7 @@ Fun and flexible tools for personal projects, blogs, and creative data visualiza
 ### **Codeless Visualization**
 
   - **Datastripes:** The best way to visualize a dataset you just found on Kaggle or scraped from a website, no installation required. [https://datastripes.com/](https://datastripes.com/)
+  - **iLoveCSV:** 60-in-1 free toolkit for CSVs, fully in-browser, no installation, fully clientside: from unpivot to outliers management to forecast. [https://ilovecsv.net](https://ilovecsv.net)
   - **Flourish:** Create beautiful, interactive, and animated data visualizations and stories. [https://flourish.studio/](https://flourish.studio/)
   - **RawGraphs:** A flexible tool for creating unconventional visualizations from CSV files. [https://rawgraphs.io/](https://rawgraphs.io/)
   - **Observable:** A web-based notebook for interactive data visualizations with JavaScript. [https://observablehq.com/](https://observablehq.com/)
